@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menu-area-main .container-fluid div {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.menu-area-main .container-fluid nav {
+    font-family: amaranth;
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+    color: #1E1B1B;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 0px;
+    letter-spacing: 0;
+    word-spacing: 20px;
+}
+.img-box .container-fluid {
+    color: #060906;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.titlepage .container-fluid h1 {
+    font-family: amaranth;
+    font-style: normal;
+    font-weight: 400;
+    color: #1F9777;
+    font-size: xx-large;
+}
